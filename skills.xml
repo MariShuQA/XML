@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<skills>
+	<Base_theory>Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.</Base_theory>
+	<HTTP>"Методы запросов на сервер, коды ответов https сервера"</HTTP>
+	<JSON_XML>Структура</JSON_XML>
+	<Postman>"Тестирование API через Postman, JS, автотесты API"</Postman>
+	<Charles_Fiddler>"Снифинг http web трафика"</Charles_Fiddler>
+	<Dev_Tools>"Google Chrome, FireFox"</Dev_Tools>
+</skills>
