@@ -1,1 +1,20 @@
-
+<?xml version="1.0"?>
+<bug_report>
+	<ID>481</ID>
+	<Severity>Major</Severity>
+	<Environment>Windows10, Opera (99.0.4788.75)</Environment>
+	<Title>[Opera] The country does not change when selected a country in dropdown[Countries and languges]</Title>
+	<Steps>
+		<1>1Navigate to capital.com</1>
+		<2>click dropdown [Countries and languages]</2>
+		<3>click dropdown [Countries]</3>
+		<4>Select any countries</4>
+		<Note>Reproduced only for Opera browser</Note>
+	</Steps>
+	<Expected_Result>1. Country changed for selected</Expected_Result>
+	<Actual_Result>1. Country doesn't changes</Actual_Result>
+	<Attachment>"https://drive.google.com/file/d/16TYzUh6VqhcXLr_o7IFbhsUFJ-rpAoDp/view?usp=drivesdk"</Attachment>
+	<License>ALL</License>
+	<Role>ALL</Role>
+	<Author>Marina Sh</Author>
+</bug_report>   
